@@ -172,8 +172,8 @@ header {
 }
 
 .profile-group {
-  text-align: center;
   display: flex;
+  padding: 30px 0 90px 0;
 }
 
 .left-content {
@@ -194,4 +194,13 @@ header {
 
 .discription-title {
   font-size: 20px;
+  margin: 20px 0 5px 0;
+}
+
+.discripition-title:first-child {
+  margin-top: 0;
+}
+
+.description-text {
+  font-size: 16px;
 }
