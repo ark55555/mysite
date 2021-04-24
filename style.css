@@ -187,3 +187,11 @@ header {
   border-radius: 50%;
   background-image: url(img/my-icon.jpg);
 }
+
+.right-content {
+  width: 50%;
+}
+
+.discription-title {
+  font-size: 20px;
+}
